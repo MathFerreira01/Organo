@@ -13,8 +13,8 @@ function App() {
     },
     {
       nome: "GTA V",
-      corPrimaria: "#84A67B",
-      corSecundaria: "#14260B",
+      corPrimaria: "#0DA697",
+      corSecundaria: "#89D9D1",
     },
     {
       nome: "Battlefield",
