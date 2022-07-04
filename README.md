@@ -4,7 +4,7 @@
 
 <img src="/src/assets/aplicação organo.jpeg"/>
 
-<h4 align="center"><a href="https://vercel.com/mathferreira01/organo">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://organo-theta.vercel.app/">Clique para visitar o projeto</a></h4>
 
 <h2>🚀 Features</h2>
 
