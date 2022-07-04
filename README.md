@@ -1,10 +1,22 @@
-<h1>Organo</h1>
+<h1 align="center">
+  <br>Organo
+</h1>
 
 <img src="/src/assets/aplicação organo.jpeg"/>
 
-<h2>⚡ Tech Stack</h2>
+<h4 align="center"><a href="https://vercel.com/mathferreira01/organo">Clique para visitar o projeto</a></h4>
 
--  [React.js](https://pt-br.reactjs.org/)
+<h2>🚀 Features</h2>
+
+Esta aplicação representa uma página de cadastros de times, onde você poderá cadastrar o seu time nos jogos disponiveis.
+
+## 💼 Tecnologias utilizadas
+Para o desenvolvimento deste site utilizei as seguintes tecnologias e biblioteca:
+
+- HTML;
+- CSS;
+- JavaScript;
+- ReactJs;
 
 <h2>Instalando / Começando</h2> 
 
@@ -25,6 +37,4 @@ Para iniciar o projeto, execute o comando abaixo:
 
     npm start
 
-<h2>🚀 Features</h2>
 
-Esta aplicação representa uma página de cadastros de times, onde você poderá cadastrar o seu time nos jogos disponiveis.
