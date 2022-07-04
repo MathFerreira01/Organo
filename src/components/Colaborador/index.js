@@ -1,14 +1,14 @@
 import './Colaborador.css'
 
-function Colaborador() {
+function Colaborador({ imagem, nome, cargo, corDeFundo}) {
   return (
-    <div>
-      <div>
-        <img src='https://github.com/MathFerreira01.png' alt=''/>
+    <div className='colaborador'>
+      <div className='cabecalho' style={{background: corDeFundo}}>
+        <img src={imagem} alt='Matheus Ferreira'/>
       </div>
-      <div>
-        <h4>Matheus</h4>
-        <h5>CS GO</h5>
+      <div className='rodape'>
+        <h4>{nome}</h4>
+        <h5>{cargo}</h5>
       </div>
     </div>
   )

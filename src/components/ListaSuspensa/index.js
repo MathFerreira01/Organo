@@ -14,7 +14,7 @@ function ListaSuspensa(props) {
         onChange={handleChange} 
         value={props.valor}
       >
-
+        <option value=''></option>
         {props.itens.map(item => <option key={item}>{item}</option>)}
 
       </select>
